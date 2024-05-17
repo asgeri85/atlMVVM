@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298990497965",
+    "project_id": "todoapp-96f4e",
+    "storage_bucket": "todoapp-96f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298990497965:android:98bbd8135a93ef3cd19624",
+        "android_client_info": {
+          "package_name": "net.asgeri.atlmvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeoGz62Nl8t-AU-3a7l9tfe3sIt33zNCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
